@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Saleh7/ipa-install/master/Icon%402x.png</string>
+					<string>https://github.com/rebin23/server/raw/main/IMG_4141.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/Saleh7/ipa-install/master/Icon.png</string>
+					<string>https://github.com/rebin23/server/raw/main/IMG_4141.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.saleh7.testapp</string>
+				<string>com.snapchat.pro</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>testapp</string>
+				<string>Snapchat pro</string>
 			</dict>
 		</dict>
 	</array>
